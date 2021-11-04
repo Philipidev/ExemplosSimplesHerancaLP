@@ -5,6 +5,7 @@ namespace ConsoleApp1
 {
     class Program
     {
+        // GitHub: https://github.com/Philipidev/ExemplosSimplesHerancaLP
         static void Main(string[] args)
         {
             Console.WriteLine("Exemplo herança de veículo:");
